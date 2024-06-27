@@ -1,0 +1,36 @@
+{
+    "hospitals": [
+    
+        {
+            "id":1,
+          "name": " Baby Memorial Hospital ",
+          "patientCount": 100,
+          "location": "Trivandrum"
+        },
+        {
+            "id":2,
+          "name": " City Hospital",
+          "patientCount": 75,
+          "location": "Kochi"
+        },
+        {
+            "id":3,
+          "name": "Nursing Home Hospital ",
+          "patientCount": 50,
+          "location": "Kozhikode"
+        },
+        {
+            "id":4,
+          "name": " Malik Deenar Hospital",
+          "patientCount": 90,
+          "location": "Kasaragod"
+        },
+        {
+            "id":5,
+          "name": "Nayanar Hospital ",
+          "patientCount": 65,
+          "location": "Kollam"
+        }
+    
+      ]
+    }
